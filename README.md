@@ -3,7 +3,7 @@
 <img align="right" src="https://img.shields.io/github/followers/caahG?label=Follow&style=social"><br>
 <div align="center">
   <a href="https://github.com/CaahG">
-    <img align="center" src="/githubcarolimg.gif" width="500">
+    <img align="center" src="/githubcarolimg.gif" width="900">
 </a>
 </div>
 <br>
@@ -77,10 +77,9 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 
 <div align="center">
   <table>
-    <tr>
-      <td><img src="/anime.gif"></td>
+    </tr>
+     <td><img src="/anime.gif"></td>
       <td><img src="/book.gif" width="300px" height="170px"> </td>
-
     </tr>
   </table>
 </div>
