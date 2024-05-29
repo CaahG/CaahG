@@ -139,7 +139,7 @@ Competências: Git, GitHub, JavaScript, Source Code Management (SCM), Node.js
   <table>
     </tr>
      <td><img src="/anime.gif"></td>
-      <td><img src="/sylviaplath.gif" width="300px" height="170px"> </td>
+      <td><img src="/sylviaplath.gif" width="400px" height="270px"></td>
     </tr>
   </table>
     </div
