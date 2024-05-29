@@ -49,12 +49,13 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 <div align="center">
   <table>
     <tr>
-      <td><b>📚💡 QA Analyst</b></td><img src="/gilmore.gif" width="300px" height="170px"> </td>
-      <td><b>🧪💻Testes Automatizado</b></td><img src="/pennyprincess.gif" width="300px" height="170px"></td>
+      <td><b>📚💡 QA Analyst</b></td>
+       </td>
+      <td><b>🧪💻Testes Automatizado</b></td>
     </tr>
     <tr>
-      <td><img src="/anime.gif" width="300px" height="170px"></td>
-      <td><img src="/book.gif" width="300px" height="170px"> </td>
+      <td><img src="/gilmore.gif" width="300px" height="170px"></td>
+      <td><img src="/pennyprincess.gif" width="300px" height="170px"> </td>
     </tr>
   </table>
 </div>
@@ -77,7 +78,9 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://i.pinimg.com/originals/57/80/12/5780125f1228ed8cbfa2761d7aae4347.gif"></td>
+      <td><img src="/anime.gif"></td>
+      <td><img src="/book.gif" width="300px" height="170px"> </td>
+
     </tr>
   </table>
 </div>
