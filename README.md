@@ -117,7 +117,8 @@ Competências: HTML, CSS, Postman API, JavaScript, Node.js
 ### [![Udemy](https://img.shields.io/badge/Udemy-Git%20Completo-02b3e4?style=flat&logo=udemy)](https://www.udemy.com/certificate/UC-7d4e53ae-3324-44dd-b8bb-fda67b532de4)
 Competências: Git, GitHub, JavaScript, Source Code Management (SCM), Node.js
 
-
+### [![Udemy](https://img.shields.io/badge/Udemy-Testes_Automáticos_+_Curso_COMPLETO_de_Teste_de_Software-02b3e4?style=flat&logo=udemy)](https://www.udemy.com/certificate/UC-d2d65d22-55c6-44e1-82b8-28f0ebe27838)
+Competências: Teste de Software, Unitário, Integração, Funcional, e Não Funcional, Planejamento e Execução de Testes de Integração, Ferramentas e Práticas de Teste de Integração
 
 
  ## 🍂 Além da Programação...
