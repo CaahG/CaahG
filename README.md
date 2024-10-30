@@ -113,14 +113,14 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 ## 📜 Certificados
 
 <!-- Relatórios de testes -->
-### [Certificado no LinkedIn](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730310793974/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
+### [Tripleten ](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730310793974/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
 
 <!-- Mestre em Documentação de teste -->
-### [Certificado no LinkedIn - 1730311029483](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730311029483/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
+### [Tripleten ](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730311029483/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
 
 
 <!-- Localizador de Bugs -->
-### [Certificado no LinkedIn - 1730311295892](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730311295892/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
+### [Tripleten](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730311295892/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
 
 ### [![Udemy](https://img.shields.io/badge/Udemy-Playwright%20Mastery-02b3e4?style=flat&logo=udemy)](https://www.udemy.com/certificate/UC-3374fb8f-2d7f-4c87-84a4-924555728bea)
 Competências: Playwright, Playwright Test, GitHub Actions, Cucumber, API, Mocks, TypeScript, Python, Jest, Automação de Testes
