@@ -99,11 +99,26 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 
 <!-- Cucumber -->
 <img src="https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber" alt="Cucumber">
+
+<!-- SQL -->
+<img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" alt="SQL">
+
+<!-- Jira -->
+<img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira" alt="Jira">
     
 <br>
 </div>
 
-## Certificados
+
+## 📜 Certificados
+
+<!-- TripleTen Certificate -->
+### ![TripleTen Certificate](https://github.com/CaahG/Bootcamp-QA-TripleTen/blob/main/Image%20(1).png)
+- [Ver PDF do Certificado - TripleTen](https://github.com/CaahG/Bootcamp-QA-TripleTen/blob/main/Image%20(1).pdf)
+
+  <!-- TripleTen Certificate 2 -->
+### ![TripleTen Certificate 2](https://github.com/CaahG/Bootcamp-QA-TripleTen/blob/main/Image%20(2).png)
+- [Ver PDF do Certificado 2 - TripleTen](https://github.com/CaahG/Bootcamp-QA-TripleTen/blob/main/Image%20(2).pdf)
 
 ### [![Udemy](https://img.shields.io/badge/Udemy-Playwright%20Mastery-02b3e4?style=flat&logo=udemy)](https://www.udemy.com/certificate/UC-3374fb8f-2d7f-4c87-84a4-924555728bea)
 Competências: Playwright, Playwright Test, GitHub Actions, Cucumber, API, Mocks, TypeScript, Python, Jest, Automação de Testes
