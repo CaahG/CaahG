@@ -94,6 +94,12 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 <!-- TypeScript -->
 <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript">
 
+<!-- Selenium -->
+<img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium"> 
+
+<!-- Cypress -->
+<img src="https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress">
+
 <!-- Jest -->
 <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest">
 
