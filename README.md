@@ -114,13 +114,16 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 
 <!-- Relatórios de testes -->
 ### [![Tripleten](https://img.shields.io/badge/Tripleten-Certificado-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730310793974/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
+Competências : Testar novos recursos de software, Garantir que as alterações no software não criem novos erros, Criar relatórios de bugs
 
 <!-- Mestre em Documentação de teste -->
 ### [![Tripleten](https://img.shields.io/badge/Tripleten-Certificado-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730311029483/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
+Competências : Análise de requisitos, Checklists e Casos de teste
 
 
 <!-- Localizador de Bugs -->
 ### [![Tripleten](https://img.shields.io/badge/Tripleten-Certificado-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-gonzaga-440072304/details/certifications/1730311295892/single-media-viewer/?profileId=ACoAAE2bhvABrJMINauqjJgrfmHSIZhujBuX8j0)
+Competências : Documentação de teste, Relatórios de bugs no Jira
 
 ### [![Udemy](https://img.shields.io/badge/Udemy-Playwright%20Mastery-02b3e4?style=flat&logo=udemy)](https://www.udemy.com/certificate/UC-3374fb8f-2d7f-4c87-84a4-924555728bea)
 Competências: Playwright, Playwright Test, GitHub Actions, Cucumber, API, Mocks, TypeScript, Python, Jest, Automação de Testes
