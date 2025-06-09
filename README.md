@@ -149,7 +149,7 @@ Competências: Teste de Software, Unitário, Integração, Funcional, e Não Fun
 
  ## 🍂 Além da Programação...
 
-- 📸🎥 Amo Fotografia, de vez ou outra posto coisas no [Instagram](https://www.instagram.com/caroll_.gonzaga/) e no [Behance](https://www.behance.net/carolinegregrio).
+- 📸🎥 Amo Fotografia, de vez ou outra posto coisas no [Instagram](https://www.instagram.com/caroll_.gonzaga/) e no [Clickasnap]([https://www.clickasnap.com/profile/CarolyneGM]).
 
 - 🎮 Gosto de jogos do gênero Ação-aventura, Aventura narrativa, sandbox, terror, RPG.
 
