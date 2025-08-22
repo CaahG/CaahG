@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/CaahG">
-    <img align="center" src="/githubcarolimg.gif" width="900">
+    <img align="center" src="">
 </a>
 </div>
 <br>
