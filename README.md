@@ -90,18 +90,21 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 <img src="https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber" alt="Cucumber">
 
 <!-- QA Roles -->
-![QA Analyst](https://img.shields.io/badge/QA-Analyst-blue)
-![QA Tester](https://img.shields.io/badge/QA-Tester-blue)
+<img src="https://img.shields.io/badge/-QA%20Analyst-05122A?style=flat&logo=testinglibrary" alt="QA Analyst">
+<img src="https://img.shields.io/badge/-QA%20Tester-05122A?style=flat&logo=testinglibrary" alt="QA Tester">
 
 <!-- QA Practices -->
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-Functional%20%7C%20Regression%20%7C%20Exploratory-lightgrey)
-![Automated Testing](https://img.shields.io/badge/Automated_Testing-Selenium%20%7C%20Cypress-green)
-![BDD](https://img.shields.io/badge/BDD-Behave-lightblue)
+<img src="https://img.shields.io/badge/-Manual%20Testing-05122A?style=flat&logo=testcafe" alt="Manual Testing">
+<img src="https://img.shields.io/badge/-Functional%20Testing-05122A?style=flat&logo=testcafe" alt="Functional Testing">
+<img src="https://img.shields.io/badge/-Regression%20Testing-05122A?style=flat&logo=testcafe" alt="Regression Testing">
+<img src="https://img.shields.io/badge/-Exploratory%20Testing-05122A?style=flat&logo=testcafe" alt="Exploratory Testing">
+<img src="https://img.shields.io/badge/-Automated%20Testing-05122A?style=flat&logo=selenium" alt="Automated Testing">
+<img src="https://img.shields.io/badge/-BDD-05122A?style=flat&logo=cucumber" alt="BDD">
+<img src="https://img.shields.io/badge/-Behave-05122A?style=flat&logo=cucumber" alt="Behave">
 
 <!-- API Testing -->
-![API Testing](https://img.shields.io/badge/API_Testing-Postman-orange?logo=postman&logoColor=white)
-
-</div>
+<img src="https://img.shields.io/badge/-API%20Testing-05122A?style=flat&logo=postman" alt="API Testing">
+<img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" alt="Postman">
 
 
 
