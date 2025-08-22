@@ -1,6 +1,6 @@
 # Olá, Eu sou a Caah! 👋🌸
 
-<img align="right" src="https://img.shields.io/github/followers/caahG?label=Follow&style=social"><br>
+<img align="right" src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/js-dev.png" alt="JS Dev" width="150">
 <div align="center">
   <a href="https://github.com/CaahG">
     <img align="center" src="/githubcarolimg.gif" width="900">
