@@ -1,6 +1,5 @@
 # Olá, Eu sou a Caah! 👋🌸
 
-<img align="right" src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/js-dev.png" alt="JS Dev" width="150">
 <div align="center">
   <a href="https://github.com/CaahG">
     <img align="center" src="/githubcarolimg.gif" width="900">
@@ -67,53 +66,43 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 
 <div align="center">
 
-<!-- JavaScript -->
+<!-- Imagem dev alinhada à direita -->
+<img align="right" src="https://raw.githubusercontent.com/<seu-usuario>/<seu-repo>/main/assets/js-dev.png" alt="JS Dev" width="150">
+
+<!-- Linguagens -->
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-
-<!-- HTML -->
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
-
-<!-- CSS -->
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
-    
-<!-- Git -->
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
-
-<!-- GitHub -->
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
-
-<!-- Postman -->
-<img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" alt="Postman">
-
-<!-- Playwright -->
-<img src="https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright" alt="Playwright">
-
-<!-- Node.js -->
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
-
-<!-- TypeScript -->
 <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" alt="TypeScript">
-
-<!-- Selenium -->
-<img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium"> 
-
-<!-- Cypress -->
-<img src="https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress">
-
-<!-- Jest -->
-<img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest">
-
-<!-- Cucumber -->
-<img src="https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber" alt="Cucumber">
-
-<!-- SQL -->
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
 <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" alt="SQL">
 
-<!-- Jira -->
+<!-- Ferramentas e Versionamento -->
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
 <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira" alt="Jira">
-    
-<br>
+
+<!-- Frameworks e Bibliotecas -->
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
+<img src="https://img.shields.io/badge/-Playwright-05122A?style=flat&logo=playwright" alt="Playwright">
+<img src="https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium" alt="Selenium">
+<img src="https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress" alt="Cypress">
+<img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest">
+<img src="https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber" alt="Cucumber">
+
+<!-- QA Roles -->
+![QA Analyst](https://img.shields.io/badge/QA-Analyst-blue)
+![QA Tester](https://img.shields.io/badge/QA-Tester-blue)
+
+<!-- QA Practices -->
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-Functional%20%7C%20Regression%20%7C%20Exploratory-lightgrey)
+![Automated Testing](https://img.shields.io/badge/Automated_Testing-Selenium%20%7C%20Cypress-green)
+![BDD](https://img.shields.io/badge/BDD-Behave-lightblue)
+
+<!-- API Testing -->
+![API Testing](https://img.shields.io/badge/API_Testing-Postman-orange?logo=postman&logoColor=white)
+
 </div>
+
 
 
 ## 📜 Certificados
