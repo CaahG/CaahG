@@ -89,6 +89,7 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 <img src="https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest" alt="Jest">
 <img src="https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber" alt="Cucumber">
 
+
 <!-- QA Roles -->
 <img src="https://img.shields.io/badge/-QA%20Analyst-05122A?style=flat&logo=testinglibrary" alt="QA Analyst">
 <img src="https://img.shields.io/badge/-QA%20Tester-05122A?style=flat&logo=testinglibrary" alt="QA Tester">
