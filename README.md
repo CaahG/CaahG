@@ -19,15 +19,6 @@
 <a href="mailto:carolinegonzaga04@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://www.instagram.com/caroll_.gonzaga/" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
-<a href="https://open.spotify.com/playlist/6hMkYTEw6hpFTowtbBNxmk?si=5b1616a57ad7454c" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist">
-</a>  
-<a href="https://steamcommunity.com/id/chloegonzaga/" target="_blank">
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
-</a>
 </div>
 
 ---
