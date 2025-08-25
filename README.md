@@ -1,22 +1,24 @@
 # Olá, Eu sou a Caah! 👋🌸
 
 <div align="center">
-  <a href="https://github.com/CaahG">
-    <img align="center" src="">
-  </a>
+  <img src="https://raw.githubusercontent.com/CaahG/jsonplaceholder---API/refs/heads/main/b0ec9cfe303c52d6d27f9f37978cda6e-removebg-preview.png" 
+       alt="Caah coding" width="300px">
 </div>
+
 <br>
 
 <div align="center">
 
-<!-- Work Links -->
-<a href="https://github.com/CaahG" target="_blank">
-<a href="https://www.linkedin.com/in/caroline-gonzaga-440072304/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="mailto:carolinegonzaga04@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+  <!-- Work Links -->
+  <a href="https://github.com/CaahG" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/caroline-gonzaga-440072304/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:carolinegonzaga04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
 ---
@@ -30,7 +32,7 @@
 ## 💼 Experiência Profissional
 
 ### QA Analyst - AxeHarbor (Out 2023 - Presente)
-Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de produtos internos. Participação ativa em cerimônias diárias do Scrum, elaboração de testes automatizados utilizando **Playwright*** e testes manuais com *Postman*. 
+Atuando como *Analista de Qualidade Autônomo, focada em garantir a qualidade de produtos internos. Participação ativa em cerimônias diárias do Scrum, elaboração de testes automatizados utilizando **Playwright*** e testes manuais com *Postman*. 
 
 <div align="center">
   <table>
@@ -39,15 +41,15 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
       <td><b>🧪💻 Testes Automatizados</b></td>
     </tr>
     <tr>
-      <td><img src="/gilmore.gif" width="300px" height="170px"></td>
-      <td><img src="/pennyprincess.gif" width="300px" height="170px"></td>
+      <td><img src="/gilmore.gif" width="300" height="170" alt="gif 1"></td>
+      <td><img src="/pennyprincess.gif" width="300" height="170" alt="gif 2"></td>
     </tr>
   </table>
 </div>
 
 ---
 
-## ⭐️ Skills
+### ⭐️ Skills
 
 <div align="center">
 
@@ -57,11 +59,14 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">
 <img src="https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql" alt="SQL">
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
 
 <!-- Ferramentas -->
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
 <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira" alt="Jira">
+<img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma" alt="Figma">
+<img src="https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio" alt="Android Studio">
 
 <!-- Frameworks e Bibliotecas -->
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
@@ -89,6 +94,7 @@ Atuando como *Analista de Qualidade Autônomo, focado em garantir a qualidade de
 <img src="https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman" alt="Postman">
 
 </div>
+
 
 ---
 
