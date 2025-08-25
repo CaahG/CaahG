@@ -11,8 +11,6 @@
 
 <!-- Work Links -->
 <a href="https://github.com/CaahG" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-</a>
 <a href="https://www.linkedin.com/in/caroline-gonzaga-440072304/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
